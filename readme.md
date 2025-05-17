@@ -1,4 +1,4 @@
-# Genius to Dunce Redirector
+# byegenius
 
 If you try to use genius, you will end up like a dunce
 
@@ -15,4 +15,10 @@ If you try to use genius, you will end up like a dunce
 - Simply visit any Genius lyrics page (URLs ending in "-lyrics")
 - The extension will automatically redirect you to the corresponding song page on Dunce.app
 - You can disable the extension at any time from the Chrome extensions page
+
+## Demo
+
+<video src="assets/display.mp4" width="640" height="480" controls>
+  Your browser does not support the video tag.
+</video>
 
